@@ -1,4 +1,4 @@
-package azblob
+package adlsblog
 
 import (
 	"context"
